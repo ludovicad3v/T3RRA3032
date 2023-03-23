@@ -24,3 +24,5 @@ Cesare Federico Sgaramella | federico.sgaramella12@gmail.com
 
 ## Riconoscimenti <3
 Un ringraziamento speciale a Mirko Campari e Vincenzo Bruno, docenti del corso QiBit per Java Developers.
+
+![nostaa](https://user-images.githubusercontent.com/125297085/227309732-46024ed7-8f90-4972-8e4f-8056955846da.png)
