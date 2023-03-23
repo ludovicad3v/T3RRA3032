@@ -1,24 +1,25 @@
 # T3RRA3032
-Repository dedicata a T3RRA3032, progetto finale del corso QiBit Java Academy finanziato da Forma.Temp in collaborazione con GiGroup e ItConsulting.
 
+T3RRA3032 e' un gioco testuale in via di sviluppo, realizzato come progetto finale del corso QiBit Java Academy finanziato da Forma.Temp in collaborazione con GiGroup e ItConsulting.
 
-Realizzato da:
+Consultare il file Presentazione finale T3RRA3032.pdf per una descrizione approfondita del progetto.
 
-Maria Antonietta Ludovica Pangrazio
-ludovicapangrazio@gmail.com
-github: LudovicaPangrazio
+## Esecuzione
 
-Federico Mandis
-mandisfederico@gmail.com
-github: FedericoMNDS
+Scaricare il file T3RRA3032.jar e runnarlo da terminale con il comando:
 
-Cesare Federico Sgaramella
-federico.sgaramella12@gmail.com
-github: R3tr0R4ke
+```bash
+java -jar *filepath*
+```
 
+## Crediti di gioco
+"CyberSolutions" e' il nome scelto dal team di sviluppatori che si sono occupati della realizzazione di T3RRA3032, composto da:
 
+Maria Antonietta Ludovica Pangrazio | ludovicapangrazio@gmail.com
 
-T3RRA3032
-ALPHA VERSION
+Federico Mandis | mandisfederico@gmail.com
 
-Scaricare il file T3RRA3032.jar e runnarlo da terminale con il comando: java -jar *filepath*
+Cesare Federico Sgaramella | federico.sgaramella12@gmail.com
+
+## Riconoscimenti <3
+Un ringraziamento speciale a Mirko Campari e Vincenzo Bruno, docenti del corso QiBit per Java Developers.
