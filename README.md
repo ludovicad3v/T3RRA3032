@@ -13,7 +13,7 @@ Scaricare il file T3RRA3032.jar e runnarlo da terminale con il comando:
 ```bash
 java -jar *filepath*
 ```
-N.B. Per il funzionamento del gioco potrebbe essere necessario installare MySQL Workbench e MySQL Community Server.
+N.B. Per il funzionamento del gioco e' necessario installare MySQL Workbench, MySQL Community Server e avviare il servizio di MySQL Community Server.
 
 ## Crediti di gioco
 "CyberSolutions" e' il nome scelto dal team di sviluppatori che si sono occupati della realizzazione di T3RRA3032, composto da:
