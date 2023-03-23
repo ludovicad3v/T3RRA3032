@@ -1,6 +1,6 @@
 # T3RRA3032
 
-![output-onlineasciitools](https://user-images.githubusercontent.com/125297085/227310028-6fab4450-9b1b-476d-aac1-704920445923.png)
+![image](https://user-images.githubusercontent.com/125297085/227339053-a6b41207-50d5-4f7d-9539-84615fb21c2a.png)
 
 T3RRA3032 e' un gioco testuale in via di sviluppo, realizzato come progetto finale del corso QiBit Java Academy finanziato da Forma.Temp in collaborazione con GiGroup e ItConsulting.
 
