@@ -18,13 +18,13 @@ N.B. Per il funzionamento del gioco potrebbe essere necessario installare MySQL 
 ## Crediti di gioco
 "CyberSolutions" e' il nome scelto dal team di sviluppatori che si sono occupati della realizzazione di T3RRA3032, composto da:
 
-Maria Antonietta Ludovica Pangrazio | ludovicapangrazio@gmail.com
+[Maria Antonietta Ludovica Pangrazio](https://www.linkedin.com/in/ludovicapangrazio/) | ludovicapangrazio@gmail.com
 
 Federico Mandis | mandisfederico@gmail.com
 
-Cesare Federico Sgaramella | federico.sgaramella12@gmail.com
+[Cesare Federico Sgaramella](https://www.linkedin.com/in/cesare-federico-sgaramella/) | federico.sgaramella12@gmail.com
 
 ## Riconoscimenti <3
-Un ringraziamento speciale a Mirko Campari e Vincenzo Bruno, docenti del corso QiBit per Java Developers.
+Un ringraziamento speciale a [Mirko Campari](https://www.linkedin.com/in/mirko-camparidocenteit/) e Vincenzo Bruno, docenti del corso QiBit per Java Developers.
 
 ![nostaa](https://user-images.githubusercontent.com/125297085/227309732-46024ed7-8f90-4972-8e4f-8056955846da.png)
