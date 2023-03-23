@@ -21,3 +21,4 @@ github: R3tr0R4ke
 T3RRA3032
 ALPHA VERSION
 
+Scaricare il file T3RRA3032.jar e runnarlo da terminale con il comando: java -jar *filepath*
