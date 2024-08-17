@@ -18,7 +18,7 @@ N.B. Per il funzionamento del gioco e' necessario installare MySQL Workbench, My
 ## Crediti di gioco
 "CyberSolutions" e' il nome scelto dal team di sviluppatori che si sono occupati della realizzazione di T3RRA3032, composto da:
 
-[Maria Antonietta Ludovica](https://www.linkedin.com/in/ludovicap)
+Ludovica P.
 
 Federico Mandis | mandisfederico@gmail.com
 
